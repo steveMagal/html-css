@@ -1,0 +1,48 @@
+*{
+    
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+
+    background: grey;
+
+}
+
+
+a{
+
+    text-decoration: none;
+    padding: 10px;
+    
+
+
+}
+
+#menu{
+
+    background-color: black;
+    padding: 20px;
+    color: white;
+
+
+}
+
+
+#menu a:hover{
+    background-color: rgb(61, 53, 53);
+    color: white;
+    transition: all 0.4s;
+    padding: 20px;
+
+}
+
+#menu a:visited{
+
+    color: white;
+
+}
+
+

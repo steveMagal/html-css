@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+
+
+}
+
+#menu1{
+    background-color: aqua;
+
+}
+
+nav#menu1 ul{
+
+background-color: aqua;
+list-style-type: none;
+padding: 0px;
+
+}
+
+
+nav#menu1 ul li{
+
+    display: inline;
+
+}
+
+nav#menu1 ul li a{
+    display: inline-block;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    
+
+}
+
+nav#menu1 ul li a:hover{
+
+    background-color: aquamarine;
+
+}
+
+
+nav#menu1 ul li:last-child a{
+
+    float: right;
+    background-color: aquamarine;
+
+}
