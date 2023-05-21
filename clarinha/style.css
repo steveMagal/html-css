@@ -1,0 +1,108 @@
+@charset"UTF-8";    
+
+*{
+
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+
+    background: rgb(187, 185, 185);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header{
+    background-color: rgb(247, 94, 214);
+    color: white;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.295);
+}
+
+header h1{
+
+    text-align: center;
+    padding: 5px;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.452);
+
+}
+
+header p {
+
+    text-align: center;
+    font-size: 1.2em;
+
+}
+
+header a{
+
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    display: inline-block;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    
+}
+
+header a:hover{
+
+    background-color: aliceblue;
+    transition: all 0.6s;
+    
+
+}
+
+main{
+    min-width: 300px;
+    max-width: 900px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.295);
+
+}
+
+
+main img{
+
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    max-width: 300px;
+    min-width: 100px;
+    
+
+}
+
+
+main h1{
+
+    text-align: center;
+
+}
+
+main p{
+
+    text-align: justify;
+    padding: 5px;
+
+}
+
+section button{
+
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+
+footer{
+
+    background-color: rgb(247, 94, 214);
+    text-align: center;
+    margin-top: 5px;
+}
