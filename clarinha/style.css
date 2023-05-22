@@ -55,8 +55,8 @@ header a:hover{
 }
 
 main{
-    min-width: 300px;
-    max-width: 900px;
+    min-width: 200px;
+    max-width: 850px;
     margin: auto;
     background-color: rgb(245, 239, 239);
     padding: 20px;
@@ -82,7 +82,7 @@ main img{
     background-color: #fff;
     text-align: center;
     margin-bottom: 5px;
-    width: 265px;
+    width: 225px;
     margin: 5px;
     display:inline-block;
     
@@ -90,8 +90,12 @@ main img{
 }
 
 main div p{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.95em;
+    margin-bottom: 10px;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
     
 
 }
