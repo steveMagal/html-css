@@ -66,8 +66,7 @@ main{
     border-bottom-left-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.295);
     margin-bottom: 10px;
-    
-
+    padding-bottom: 1000px;
 }
 
 
@@ -129,10 +128,17 @@ main p{
 
 footer{
 
-    background-color: black;
+    
     text-align: center;
     padding: 5px;
     color: white;
-   
+    background-color: rgb(247, 94, 214);
     
+    
+}
+
+footer.distancia{
+
+   
+
 }
