@@ -57,7 +57,7 @@ header a:hover{
 }
 
 main{
-    min-width: 200px;
+    min-width: 300px;
     max-width: 850px;
     margin: auto;
     background-color: rgb(245, 239, 239);
@@ -129,7 +129,7 @@ main p{
 
 footer{
 
-    background-color: rgb(247, 94, 214);
+    background-color: black;
     text-align: center;
     padding: 5px;
     color: white;
