@@ -15,6 +15,7 @@ body{
 }
 
 header{
+    
     background-color: rgb(247, 94, 214);
     color: white;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.295);
@@ -23,7 +24,7 @@ header{
 header h1{
 
     text-align: center;
-    padding: 5px;
+    
     text-shadow: 1px 1px rgba(0, 0, 0, 0.452);
 
 }
@@ -38,11 +39,12 @@ header p {
 header a{
 
     text-decoration: none;
-    padding: 10px;
+    padding: 5px;
     color: white;
     display: inline-block;
     border-radius: 20px;
     margin-bottom: 5px;
+    margin-left: 10px;
     
 }
 
@@ -63,6 +65,7 @@ main{
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.295);
+    margin-bottom: 10px;
     
 
 }
@@ -73,7 +76,7 @@ main img{
     max-width: 110px;
     min-height: 150px;
     padding: 5px;
-    
+
     
 
 }
@@ -86,6 +89,14 @@ main img{
     width: 225px;
     margin: 5px;
     display:inline-block;
+    
+
+}
+
+main div{
+
+    text-align: center;
+    
     
 
 }
@@ -120,7 +131,7 @@ footer{
 
     background-color: rgb(247, 94, 214);
     text-align: center;
-    margin-top: 5px;
+    
     padding: 5px;
     color: white;
     margin: auto;
