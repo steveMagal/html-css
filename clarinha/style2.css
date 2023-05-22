@@ -60,6 +60,7 @@ main{
     min-width: 300px;
     max-width: 850px;
     margin: auto;
+    display: block;
     background-color: rgb(245, 239, 239);
     padding: 20px;
     border-bottom-right-radius: 10px;
@@ -70,15 +71,24 @@ main{
 }
 
 
-main img{
+main div img{
 
     max-width: 110px;
     min-height: 150px;
     padding: 5px;
+    
+    
 
     
 
 }
+
+main div{
+
+    margin-left: 50px;
+
+}
+
 
 .galeria{
 
@@ -86,19 +96,15 @@ main img{
     text-align: center;
     margin-bottom: 5px;
     width: 225px;
-    margin: 5px;
-    display:inline-block;
+    position: ;
+    margin-left: 40px;
+   
+   
     
 
 }
 
-main div{
 
-    text-align: center;
-    
-    
-
-}
 
 main div p{
     
@@ -114,7 +120,8 @@ main div p{
 main h1{
 
     text-align: center;
-
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 main p{

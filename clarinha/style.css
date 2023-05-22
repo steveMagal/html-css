@@ -92,14 +92,7 @@ main img{
 
 }
 
-main div{
 
-    display: flex;
-    
-    
-    
-
-}
 
 main div p{
     
@@ -122,6 +115,7 @@ main p{
 
     text-align: justify;
     padding: 5px;
+    margin: 15px 0 15px 0;
 
 }
 
