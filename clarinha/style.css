@@ -58,7 +58,7 @@ main{
     min-width: 300px;
     max-width: 900px;
     margin: auto;
-    background-color: white;
+    background-color: rgb(245, 239, 239);
     padding: 20px;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
@@ -69,15 +69,32 @@ main{
 
 main img{
 
-    border-radius: 10px;
-    display: block;
-    margin: auto;
-    max-width: 300px;
-    min-width: 100px;
+    max-width: 200px;
+    min-height: 150px;
+    padding: 5px;
+    
     
 
 }
 
+.galeria{
+
+    background-color: #fff;
+    text-align: center;
+    margin-bottom: 5px;
+    width: 265px;
+    margin: 5px;
+    display:inline-block;
+    
+
+}
+
+main div p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
 
 main h1{
 
@@ -92,13 +109,6 @@ main p{
 
 }
 
-section button{
-
-    background-color: aquamarine;
-    padding: 10px;
-    border-radius: 20px;
-
-}
 
 
 footer{
@@ -106,4 +116,7 @@ footer{
     background-color: rgb(247, 94, 214);
     text-align: center;
     margin-top: 5px;
+    padding: 5px;
+    color: white;
+    
 }
