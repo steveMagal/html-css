@@ -1,0 +1,138 @@
+@charset"UTF-8";    
+
+*{
+
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+
+    background-image: url(https://images-americanas.b2w.io/produtos/3449142244/imagens/papel-de-parede-adesivo-branco-rosa-coracao-coracoes-love-amor-para-quarto-menina-teen-sala-loja-vinilico-lavavel/3449142607_1_large.jpg);
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header{
+    
+    background-color: rgb(247, 94, 214);
+    color: white;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.295);
+}
+
+header h1{
+
+    text-align: center;
+    
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.452);
+
+}
+
+header p {
+
+    text-align: center;
+    font-size: 1.2em;
+
+}
+
+header a{
+
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+    display: inline-block;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    
+}
+
+header a:hover{
+
+    background-color: aliceblue;
+    transition: all 0.6s;
+    
+
+}
+
+main{
+    min-width: 300px;
+    max-width: 850px;
+    margin: auto;
+    background-color: rgb(245, 239, 239);
+    padding: 20px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.295);
+    margin-bottom: 10px;
+    
+}
+
+
+main img{
+
+    max-width: 110px;
+    min-height: 150px;
+    padding: 5px;
+
+    
+
+}
+
+.galeria{
+
+    background-color: #fff;
+    text-align: center;
+    margin-bottom: 5px;
+    width: 225px;
+    margin: 5px;
+    display:inline-block;
+    
+
+}
+
+main div{
+
+    text-align: center;
+    
+    
+
+}
+
+main div p{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.95em;
+    margin-bottom: 10px;
+    text-align: center;
+    
+    
+
+}
+
+main h1{
+
+    text-align: center;
+
+}
+
+main p{
+
+    text-align: justify;
+    padding: 5px;
+
+}
+
+
+
+footer{
+
+    
+    text-align: center;
+    padding: 5px;
+    color: white;
+    background-color: rgb(247, 94, 214);
+    
+    
+}
