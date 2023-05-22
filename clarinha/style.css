@@ -57,7 +57,7 @@ header a:hover{
 }
 
 main{
-    min-width: 300px;
+    min-width: 150px;
     max-width: 850px;
     margin: auto;
     background-color: rgb(245, 239, 239);
