@@ -93,7 +93,7 @@ main div{
 
 
 .galeria{
-
+    transform: translate(-10%,0%);
     display: inline-block;
     min-width: 22vw;
     text-align: center;
