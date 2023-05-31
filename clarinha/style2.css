@@ -58,7 +58,7 @@ header a:hover{
 
 main{
     min-width: 300px;
-    max-width: 850px;
+    max-width: 60vw;
     margin: auto;
     display: block;
     background-color: rgb(245, 239, 239);
@@ -73,12 +73,9 @@ main{
 
 main div img{
 
-    max-width: 110px;
-    min-height: 150px;
+    max-width: 30vw;
+    min-height: 30vw;
     padding: 5px;
-    
-    
-
     
 
 }
@@ -90,17 +87,34 @@ main div{
 }
 
 
-.galeria{
+picture#container{
 
-    background-color: #fff;
+    
+
+
+}
+
+
+
+
+.galeria{
+   
+    display: inline-block;
+    min-width: 20vw;
+    
     text-align: center;
     margin-bottom: 5px;
-    width: 225px;
-    position: ;
-    margin-left: 40px;
+    width: 15vw;
+    margin-left: 10%;
    
-   
-    
+
+}
+
+
+img{
+    min-height: 5vw;
+    width: 90%;
+
 
 }
 

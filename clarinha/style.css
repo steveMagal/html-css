@@ -15,7 +15,7 @@ body{
 }
 
 header{
-    
+    min-width: 10vw;
     background-color: rgb(247, 94, 214);
     color: white;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.295);
@@ -57,11 +57,11 @@ header a:hover{
 }
 
 main{
-    min-width: 150px;
-    max-width: 850px;
+    
+    width: 70vw;
     margin: auto;
     background-color: rgb(245, 239, 239);
-    padding: 20px;
+    padding: 5vh;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.295);
@@ -87,8 +87,8 @@ main img{
     margin-bottom: 5px;
     width: 225px;
     margin: 5px;
-    display:inline-block;
-    
+    display: inline-block;
+    width: 20vw;    
 
 }
 
