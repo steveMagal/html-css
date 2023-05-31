@@ -107,10 +107,11 @@ main div{
 
 
 img{
-    min-height: 2vw;
-    width: 90%;
-
-
+    
+    min-height: 20vh;
+    width: 80%;
+    left: 50%;
+    top: 50%;
 }
 
 
