@@ -22,22 +22,22 @@ header{
 }
 
 header h1{
-
+    font-variant: small-caps;
     text-align: center;
-    
+    padding-top: 50px;    
     text-shadow: 1px 1px rgba(0, 0, 0, 0.452);
 
 }
 
 header p {
-
+    padding-bottom: 50px;
     text-align: center;
     font-size: 1.2em;
 
 }
 
 header a{
-
+    
     text-decoration: none;
     padding: 5px;
     color: white;
@@ -57,9 +57,8 @@ header a:hover{
 }
 
 main{
-    
-    min-width: 150px;
-    max-width: 850px;
+    height: 98%;
+    width: 65vw;
     margin: auto;
     background-color: rgb(245, 239, 239);
     padding: 5vh;
@@ -86,12 +85,10 @@ main img{
     background-color: #fff;
     text-align: center;
     margin-bottom: 5px;
-    
     margin: 5px;
     display:inline-block;
 
     
-
 }
 
 
@@ -103,8 +100,6 @@ main div p{
     margin-bottom: 10px;
     text-align: center;
     
-    
-
 }
 
 main h1{
