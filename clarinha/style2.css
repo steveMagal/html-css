@@ -95,12 +95,12 @@ main div{
 .galeria{
    
     display: inline-block;
-    min-width: 20vw;
-    
+    min-width: 22vw;
     text-align: center;
     margin-bottom: 5px;
     width: 15vw;
     margin-left: 10%;
+    height: 68vh;
    
 
 }
