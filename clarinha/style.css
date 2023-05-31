@@ -58,7 +58,8 @@ header a:hover{
 
 main{
     
-    width: 70vw;
+    min-width: 150px;
+    max-width: 850px;
     margin: auto;
     background-color: rgb(245, 239, 239);
     padding: 5vh;
@@ -85,10 +86,11 @@ main img{
     background-color: #fff;
     text-align: center;
     margin-bottom: 5px;
-    width: 225px;
+    
     margin: 5px;
-    display: inline-block;
-    width: 20vw;    
+    display:inline-block;
+
+    
 
 }
 
